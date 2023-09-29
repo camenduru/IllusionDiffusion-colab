@@ -8,10 +8,11 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/IllusionDiffusion-colab/blob/main/IllusionDiffusion_colab.ipynb) | IllusionDiffusion_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/IllusionDiffusion-colab/blob/main/IllusionDiffusion_colab.ipynb) | IllusionDiffusion_colab + FreeU
 
 ## Main Repo
-https://huggingface.co/spaces/AP123/IllusionDiffusion/tree/main
+https://huggingface.co/spaces/AP123/IllusionDiffusion/tree/main <br />
+https://github.com/lyn-rgb/FreeU_Diffusers <br />
 
 ## Output
 
